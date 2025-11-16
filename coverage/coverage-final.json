@@ -1,0 +1,461 @@
+{
+  "C:\\Users\\u2486930\\OneDrive - Roskilde Tekniske Skole\\opgave\\hovedfoløb\\TESTING\\vitest-velser\\vitest-velser\\src\\functions.js": {
+    "path": "C:\\Users\\u2486930\\OneDrive - Roskilde Tekniske Skole\\opgave\\hovedfoløb\\TESTING\\vitest-velser\\vitest-velser\\src\\functions.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 3, "column": 2 },
+        "end": { "line": 13, "column": 4 }
+      },
+      "1": {
+        "start": { "line": 4, "column": 4 },
+        "end": { "line": 12, "column": 5 }
+      },
+      "2": {
+        "start": { "line": 5, "column": 8 },
+        "end": { "line": 5, "column": 24 }
+      },
+      "3": {
+        "start": { "line": 6, "column": 11 },
+        "end": { "line": 12, "column": 5 }
+      },
+      "4": {
+        "start": { "line": 7, "column": 8 },
+        "end": { "line": 7, "column": 34 }
+      },
+      "5": {
+        "start": { "line": 8, "column": 11 },
+        "end": { "line": 12, "column": 5 }
+      },
+      "6": {
+        "start": { "line": 9, "column": 8 },
+        "end": { "line": 9, "column": 20 }
+      },
+      "7": {
+        "start": { "line": 11, "column": 8 },
+        "end": { "line": 11, "column": 20 }
+      },
+      "8": {
+        "start": { "line": 17, "column": 4 },
+        "end": { "line": 17, "column": 16 }
+      },
+      "9": {
+        "start": { "line": 21, "column": 4 },
+        "end": { "line": 29, "column": 6 }
+      },
+      "10": {
+        "start": { "line": 22, "column": 8 },
+        "end": { "line": 28, "column": 15 }
+      },
+      "11": {
+        "start": { "line": 23, "column": 12 },
+        "end": { "line": 27, "column": 13 }
+      },
+      "12": {
+        "start": { "line": 24, "column": 16 },
+        "end": { "line": 24, "column": 34 }
+      },
+      "13": {
+        "start": { "line": 26, "column": 16 },
+        "end": { "line": 26, "column": 35 }
+      },
+      "14": {
+        "start": { "line": 33, "column": 4 },
+        "end": { "line": 37, "column": 5 }
+      },
+      "15": {
+        "start": { "line": 34, "column": 8 },
+        "end": { "line": 34, "column": 51 }
+      },
+      "16": {
+        "start": { "line": 35, "column": 11 },
+        "end": { "line": 37, "column": 5 }
+      },
+      "17": {
+        "start": { "line": 36, "column": 8 },
+        "end": { "line": 36, "column": 50 }
+      },
+      "18": {
+        "start": { "line": 38, "column": 4 },
+        "end": { "line": 38, "column": 17 }
+      },
+      "19": {
+        "start": { "line": 42, "column": 21 },
+        "end": { "line": 42, "column": 50 }
+      },
+      "20": {
+        "start": { "line": 43, "column": 17 },
+        "end": { "line": 43, "column": 38 }
+      },
+      "21": {
+        "start": { "line": 44, "column": 4 },
+        "end": { "line": 44, "column": 52 }
+      },
+      "22": {
+        "start": { "line": 44, "column": 20 },
+        "end": { "line": 44, "column": 52 }
+      },
+      "23": {
+        "start": { "line": 45, "column": 4 },
+        "end": { "line": 45, "column": 20 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "processValues",
+        "decl": {
+          "start": { "line": 2, "column": 16 },
+          "end": { "line": 2, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 2, "column": 35 },
+          "end": { "line": 14, "column": 1 }
+        },
+        "line": 2
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": { "line": 3, "column": 17 },
+          "end": { "line": 3, "column": 22 }
+        },
+        "loc": {
+          "start": { "line": 3, "column": 26 },
+          "end": { "line": 13, "column": 3 }
+        },
+        "line": 3
+      },
+      "2": {
+        "name": "structureTest",
+        "decl": {
+          "start": { "line": 16, "column": 16 },
+          "end": { "line": 16, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 16, "column": 36 },
+          "end": { "line": 18, "column": 1 }
+        },
+        "line": 16
+      },
+      "3": {
+        "name": "asyncFunction",
+        "decl": {
+          "start": { "line": 20, "column": 16 },
+          "end": { "line": 20, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 20, "column": 46 },
+          "end": { "line": 30, "column": 1 }
+        },
+        "line": 20
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": { "line": 21, "column": 23 },
+          "end": { "line": 21, "column": 24 }
+        },
+        "loc": {
+          "start": { "line": 21, "column": 44 },
+          "end": { "line": 29, "column": 5 }
+        },
+        "line": 21
+      },
+      "5": {
+        "name": "(anonymous_5)",
+        "decl": {
+          "start": { "line": 22, "column": 19 },
+          "end": { "line": 22, "column": 20 }
+        },
+        "loc": {
+          "start": { "line": 22, "column": 24 },
+          "end": { "line": 28, "column": 9 }
+        },
+        "line": 22
+      },
+      "6": {
+        "name": "devideErr",
+        "decl": {
+          "start": { "line": 32, "column": 16 },
+          "end": { "line": 32, "column": 25 }
+        },
+        "loc": {
+          "start": { "line": 32, "column": 32 },
+          "end": { "line": 39, "column": 1 }
+        },
+        "line": 32
+      },
+      "7": {
+        "name": "apiMock",
+        "decl": {
+          "start": { "line": 41, "column": 22 },
+          "end": { "line": 41, "column": 29 }
+        },
+        "loc": {
+          "start": { "line": 41, "column": 34 },
+          "end": { "line": 46, "column": null }
+        },
+        "line": 41
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": { "line": 4, "column": 4 },
+          "end": { "line": 12, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 4, "column": 4 },
+            "end": { "line": 12, "column": 5 }
+          },
+          {
+            "start": { "line": 6, "column": 11 },
+            "end": { "line": 12, "column": 5 }
+          }
+        ],
+        "line": 4
+      },
+      "1": {
+        "loc": {
+          "start": { "line": 6, "column": 11 },
+          "end": { "line": 12, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 6, "column": 11 },
+            "end": { "line": 12, "column": 5 }
+          },
+          {
+            "start": { "line": 8, "column": 11 },
+            "end": { "line": 12, "column": 5 }
+          }
+        ],
+        "line": 6
+      },
+      "2": {
+        "loc": {
+          "start": { "line": 8, "column": 11 },
+          "end": { "line": 12, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 8, "column": 11 },
+            "end": { "line": 12, "column": 5 }
+          },
+          {
+            "start": { "line": 10, "column": 11 },
+            "end": { "line": 12, "column": 5 }
+          }
+        ],
+        "line": 8
+      },
+      "3": {
+        "loc": {
+          "start": { "line": 8, "column": 15 },
+          "end": { "line": 8, "column": 52 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 8, "column": 15 },
+            "end": { "line": 8, "column": 29 }
+          },
+          {
+            "start": { "line": 8, "column": 33 },
+            "end": { "line": 8, "column": 52 }
+          }
+        ],
+        "line": 8
+      },
+      "4": {
+        "loc": {
+          "start": { "line": 20, "column": 30 },
+          "end": { "line": 20, "column": 44 }
+        },
+        "type": "default-arg",
+        "locations": [
+          {
+            "start": { "line": 20, "column": 40 },
+            "end": { "line": 20, "column": 44 }
+          }
+        ],
+        "line": 20
+      },
+      "5": {
+        "loc": {
+          "start": { "line": 23, "column": 12 },
+          "end": { "line": 27, "column": 13 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 23, "column": 12 },
+            "end": { "line": 27, "column": 13 }
+          },
+          {
+            "start": { "line": 25, "column": 18 },
+            "end": { "line": 27, "column": 13 }
+          }
+        ],
+        "line": 23
+      },
+      "6": {
+        "loc": {
+          "start": { "line": 33, "column": 4 },
+          "end": { "line": 37, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 33, "column": 4 },
+            "end": { "line": 37, "column": 5 }
+          },
+          {
+            "start": { "line": 35, "column": 11 },
+            "end": { "line": 37, "column": 5 }
+          }
+        ],
+        "line": 33
+      },
+      "7": {
+        "loc": {
+          "start": { "line": 33, "column": 8 },
+          "end": { "line": 33, "column": 54 }
+        },
+        "type": "binary-expr",
+        "locations": [
+          {
+            "start": { "line": 33, "column": 8 },
+            "end": { "line": 33, "column": 29 }
+          },
+          {
+            "start": { "line": 33, "column": 33 },
+            "end": { "line": 33, "column": 54 }
+          }
+        ],
+        "line": 33
+      },
+      "8": {
+        "loc": {
+          "start": { "line": 35, "column": 11 },
+          "end": { "line": 37, "column": 5 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 35, "column": 11 },
+            "end": { "line": 37, "column": 5 }
+          },
+          { "start": {}, "end": {} }
+        ],
+        "line": 35
+      },
+      "9": {
+        "loc": {
+          "start": { "line": 44, "column": 4 },
+          "end": { "line": 44, "column": 52 }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": { "line": 44, "column": 4 },
+            "end": { "line": 44, "column": 52 }
+          },
+          { "start": {}, "end": {} }
+        ],
+        "line": 44
+      }
+    },
+    "s": {
+      "0": 4,
+      "1": 9,
+      "2": 2,
+      "3": 7,
+      "4": 2,
+      "5": 5,
+      "6": 2,
+      "7": 3,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 1,
+      "13": 1,
+      "14": 3,
+      "15": 1,
+      "16": 2,
+      "17": 1,
+      "18": 1,
+      "19": 3,
+      "20": 2,
+      "21": 2,
+      "22": 1,
+      "23": 1
+    },
+    "f": { "0": 4, "1": 9, "2": 2, "3": 2, "4": 2, "5": 2, "6": 3, "7": 3 },
+    "b": {
+      "0": [2, 7],
+      "1": [2, 5],
+      "2": [2, 3],
+      "3": [5, 4],
+      "4": [2],
+      "5": [1, 1],
+      "6": [1, 2],
+      "7": [3, 2],
+      "8": [1, 1],
+      "9": [1, 1]
+    },
+    "meta": {
+      "lastBranch": 10,
+      "lastFunction": 8,
+      "lastStatement": 24,
+      "seen": {
+        "f:2:16:2:29": 0,
+        "s:3:2:13:4": 0,
+        "f:3:17:3:22": 1,
+        "b:4:4:12:5:6:11:12:5": 0,
+        "s:4:4:12:5": 1,
+        "s:5:8:5:24": 2,
+        "b:6:11:12:5:8:11:12:5": 1,
+        "s:6:11:12:5": 3,
+        "s:7:8:7:34": 4,
+        "b:8:11:12:5:10:11:12:5": 2,
+        "s:8:11:12:5": 5,
+        "b:8:15:8:29:8:33:8:52": 3,
+        "s:9:8:9:20": 6,
+        "s:11:8:11:20": 7,
+        "f:16:16:16:29": 2,
+        "s:17:4:17:16": 8,
+        "f:20:16:20:29": 3,
+        "b:20:40:20:44": 4,
+        "s:21:4:29:6": 9,
+        "f:21:23:21:24": 4,
+        "s:22:8:28:15": 10,
+        "f:22:19:22:20": 5,
+        "b:23:12:27:13:25:18:27:13": 5,
+        "s:23:12:27:13": 11,
+        "s:24:16:24:34": 12,
+        "s:26:16:26:35": 13,
+        "f:32:16:32:25": 6,
+        "b:33:4:37:5:35:11:37:5": 6,
+        "s:33:4:37:5": 14,
+        "b:33:8:33:29:33:33:33:54": 7,
+        "s:34:8:34:51": 15,
+        "b:35:11:37:5:undefined:undefined:undefined:undefined": 8,
+        "s:35:11:37:5": 16,
+        "s:36:8:36:50": 17,
+        "s:38:4:38:17": 18,
+        "f:41:22:41:29": 7,
+        "s:42:21:42:50": 19,
+        "s:43:17:43:38": 20,
+        "b:44:4:44:52:undefined:undefined:undefined:undefined": 9,
+        "s:44:4:44:52": 21,
+        "s:44:20:44:52": 22,
+        "s:45:4:45:20": 23
+      }
+    }
+  }
+}
